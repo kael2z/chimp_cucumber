@@ -1,0 +1,22 @@
+{
+  "name": "chimp-cucumber-test",
+  "version": "1.0.0",
+  "description": "a test project with ui tests using cucumberjs via chimp",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kael2z/chimp_cucumber.git"
+  },
+  "author": "Daniil Blagov",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kael2z/chimp_cucumber/issues"
+  },
+  "homepage": "https://github.com/kael2z/chimp_cucumber#readme",
+  "dependencies": {
+    "chimp": "^0.42.0"
+  }
+}
