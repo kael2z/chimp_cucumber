@@ -12,6 +12,5 @@ Feature: Search the Web with Google
     
   Scenario: Search for website that is mentionedin news
     Given I have visited "https://google.com"
-    When I search for "vkontakte"
+    When I search for "recursion"
     Then I see "10" search results
-    And I see "4" small search results
