@@ -4,6 +4,7 @@ Feature: Search the Web with Google
   I want to search the web
   So I can find information
 
+  @ignore
   Scenario: Search for info
     Given I have visited "https://google.com"
     When I search for "почему путин краб"
